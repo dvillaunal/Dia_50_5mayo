@@ -1,18 +1,3 @@
----
-title: "Dia_50_5mayo"
-author: "Daniel Felipe Villa Rengifo"
-date: "5/5/2021"
-output: 
-  html_document: 
-    toc: yes
-    toc_float: yes
-    number_sections: yes
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 __Protocolo:__
 
 + Daniel Felipe Villa Rengifo
@@ -262,4 +247,3 @@ for (t in 1:10) {
   }
 }
 ```
-
